@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "removeDeck(Dictionary::Dictionary*, Deck*):Deck.h">
+      </ContextState>
+      <ContextState
+         contextName = "Dictionary::loadAllForms(Dictionary::Dictionary*, Dictionary::Word*):dictionary.h">
+      </ContextState>
+      <ContextState
+         contextName = "clearDeckMemory(Deck*):Deck.h">
+      </ContextState>
+      <ContextState
+         contextName = "::-[WordSelectTableVC tableView:didSelectRowAtIndexPath:](UITableView *, NSIndexPath *):WordSelectTableVC.mm">
+      </ContextState>
+      <ContextState
+         contextName = "::-[WordDetailsTableVC tableView:didSelectRowAtIndexPath:](UITableView *, NSIndexPath *):WordDetailsTableVC.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "(Dictionary::VerbForm *)self-&gt;_form_details-&gt;_form">
+            </PersistentString>
+            <PersistentString
+               value = " self.form_details.form">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[WordSelectTableVC tableView:didDeselectRowAtIndexPath:](UITableView *, NSIndexPath *):WordSelectTableVC.mm">
+      </ContextState>
+      <ContextState
+         contextName = "Dictionary::open(char const*):dictionary.h">
+      </ContextState>
+      <ContextState
+         contextName = "::-[FormDetailsTableVC tableView:cellForRowAtIndexPath:](UITableView *, NSIndexPath *):FormDetailsTableVC.mm">
+      </ContextState>
+      <ContextState
+         contextName = "::-[DeckTableVC addDeck:](NSString *):DeckTableVC.mm">
+      </ContextState>
+      <ContextState
+         contextName = "::-[WordSelectTableVC viewWillDisappear:](BOOL):WordSelectTableVC.mm">
+      </ContextState>
+      <ContextState
+         contextName = "::-[FormSelectTableVC tableView:numberOfRowsInSection:](UITableView *, NSInteger):FormSelectTableVC.mm">
+      </ContextState>
+      <ContextState
+         contextName = "createDeck(Dictionary::Dictionary*, NSString*, long long):Deck.h">
+      </ContextState>
+      <ContextState
+         contextName = "::-[WordSelectTableVC viewWillAppear:](BOOL):WordSelectTableVC.mm">
+      </ContextState>
+      <ContextState
+         contextName = "::-[FormSelectTableVC viewWillAppear:](BOOL):FormSelectTableVC.mm">
+      </ContextState>
+      <ContextState
+         contextName = "::__49-[DeckTableVC tableView:didSelectRowAtIndexPath:]_block_invoke(UIAlertAction *):DeckTableVC.mm">
+      </ContextState>
+      <ContextState
+         contextName = "loadAllDecks(Dictionary::Dictionary*):Deck.h">
+      </ContextState>
+      <ContextState
+         contextName = "::-[DeckTableVC tableView:commitEditingStyle:forRowAtIndexPath:](UITableView *, UITableViewCellEditingStyle, NSIndexPath *):DeckTableVC.mm">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

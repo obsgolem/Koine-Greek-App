@@ -1,0 +1,1761 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wor",
+				"word_quiz"
+			],
+			[
+				"form",
+				"form_id"
+			],
+			[
+				"NARR",
+				"NARRAY_SIZE"
+			],
+			[
+				"Man",
+				"MandatoryGender"
+			],
+			[
+				"Ma",
+				"MandatoryPerson"
+			],
+			[
+				"ge",
+				"gender_possessed"
+			],
+			[
+				"nu",
+				"number_possessed"
+			],
+			[
+				"cas",
+				"case_possessed"
+			],
+			[
+				"pe",
+				"person_possesor"
+			],
+			[
+				"number_",
+				"number_possesor"
+			],
+			[
+				"suff",
+				"suffix"
+			],
+			[
+				"number",
+				"number_connector"
+			],
+			[
+				"perso",
+				"person_connector"
+			],
+			[
+				"per",
+				"person_connector"
+			],
+			[
+				"pers",
+				"person"
+			],
+			[
+				"ut",
+				"stringWithUTF8String"
+			],
+			[
+				"uin",
+				"uint8"
+			],
+			[
+				"ver",
+				"verb_extra"
+			],
+			[
+				"case",
+				"case_connector"
+			],
+			[
+				"moo",
+				"mood_connector"
+			],
+			[
+				"mood",
+				"mood_connector"
+			],
+			[
+				"num",
+				"number_connector"
+			],
+			[
+				"suf",
+				"suffix_connector"
+			],
+			[
+				"NAR",
+				"NARRAYITEM"
+			],
+			[
+				"QU",
+				"QuizForm"
+			],
+			[
+				"Qui",
+				"QuizForm"
+			],
+			[
+				"D",
+				"DELEGATE"
+			],
+			[
+				"deck",
+				"decks"
+			],
+			[
+				"shi",
+				"shift_temp"
+			],
+			[
+				"table",
+				"tableView"
+			],
+			[
+				"to",
+				"toIndexPath"
+			],
+			[
+				"NARRAY",
+				"NARRAY_REMOVE"
+			],
+			[
+				"Di",
+				"Dictionary"
+			],
+			[
+				"get_wor",
+				"get_word_search_string"
+			],
+			[
+				"word",
+				"word_data"
+			],
+			[
+				"det",
+				"detailsPushed"
+			],
+			[
+				"resu",
+				"result"
+			],
+			[
+				"words_",
+				"words_list"
+			],
+			[
+				"detail",
+				"detailTextLabel"
+			],
+			[
+				"cu",
+				"current_sort_order"
+			],
+			[
+				"text",
+				"text_utf"
+			],
+			[
+				"re",
+				"results"
+			],
+			[
+				"Deck",
+				"DeckWord"
+			],
+			[
+				"De",
+				"DeckWord"
+			],
+			[
+				"usa",
+				"usageCompare"
+			],
+			[
+				"na",
+				"navigationController"
+			],
+			[
+				"se",
+				"searchBar"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"de",
+				"definition_label"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"Dic",
+				"DictContainer"
+			],
+			[
+				"Dict",
+				"DictTableVC"
+			],
+			[
+				"upd",
+				"updateSelections"
+			],
+			[
+				"sea",
+				"searchBarTextDidEndEditing"
+			],
+			[
+				"searc",
+				"search"
+			],
+			[
+				"ta",
+				"tableView"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"search",
+				"searchBar"
+			],
+			[
+				"sear",
+				"search_words"
+			],
+			[
+				"sql",
+				"sqlite3_reset"
+			],
+			[
+				"get_a",
+				"get_all_words_strongs"
+			],
+			[
+				"get_all",
+				"get_all_words_count"
+			],
+			[
+				"getall",
+				"get_all_words_strongs"
+			],
+			[
+				"coun",
+				"word_count"
+			],
+			[
+				"def",
+				"definition"
+			],
+			[
+				"NARRA",
+				"NARRAY_NEW"
+			],
+			[
+				"getWord",
+				"getWordFromResult"
+			],
+			[
+				"clea",
+				"clearWordFormListMemory"
+			],
+			[
+				"get",
+				"getBasicCell"
+			],
+			[
+				"NA",
+				"NARRAY_SIZE"
+			],
+			[
+				"vie",
+				"viewWillDisappear"
+			],
+			[
+				"anim",
+				"animated"
+			],
+			[
+				"W",
+				"Word"
+			],
+			[
+				"NARRAY_",
+				"NARRAY_NEW"
+			],
+			[
+				"qui",
+				"word_quiz"
+			],
+			[
+				"al",
+				"alpha"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"WO",
+				"WordQuizVC"
+			],
+			[
+				"word_",
+				"word_quiz"
+			],
+			[
+				"main",
+				"main_stack"
+			],
+			[
+				"Ver",
+				"VerbForm"
+			],
+			[
+				"Upd",
+				"updateWord"
+			],
+			[
+				"del",
+				"delete_form_pos_pro_form"
+			],
+			[
+				"delete_form_",
+				"delete_form_pro_form"
+			],
+			[
+				"PRE",
+				"PREPARE_STMT"
+			],
+			[
+				"set",
+				"set_declconj"
+			],
+			[
+				"decl",
+				"declconj"
+			],
+			[
+				"ind",
+				"indexPath"
+			],
+			[
+				"load",
+				"load_form_cng_form"
+			],
+			[
+				"for",
+				"forms_pointer"
+			],
+			[
+				"index",
+				"indexPath"
+			],
+			[
+				"row",
+				"row_index"
+			],
+			[
+				"Word",
+				"WordData"
+			],
+			[
+				"DI",
+				"Dictionary"
+			],
+			[
+				"dec",
+				"decks"
+			],
+			[
+				"forms",
+				"form_ids"
+			],
+			[
+				"dic",
+				"dict_path"
+			],
+			[
+				"all",
+				"allocAndCopyString"
+			],
+			[
+				"uint",
+				"uint8"
+			],
+			[
+				"U",
+				"UTF8String"
+			],
+			[
+				"suffi",
+				"suffix_names"
+			],
+			[
+				"sq",
+				"sqlite3_step"
+			],
+			[
+				"fo",
+				"form_ids"
+			],
+			[
+				"next",
+				"next_offset"
+			],
+			[
+				"form_",
+				"form_id"
+			],
+			[
+				"foun",
+				"found_index"
+			],
+			[
+				"u",
+				"uint64"
+			],
+			[
+				"UI",
+				"UINT64_MAX"
+			],
+			[
+				"foud",
+				"found_index"
+			],
+			[
+				"Wor",
+				"WordData"
+			],
+			[
+				"tex",
+				"textLabel"
+			],
+			[
+				"pre",
+				"presentViewController"
+			],
+			[
+				"form_i",
+				"form_index"
+			],
+			[
+				"nex",
+				"next_offset"
+			],
+			[
+				"ne",
+				"next_offset"
+			],
+			[
+				"gen",
+				"gender_possesed"
+			],
+			[
+				"ten",
+				"tense"
+			],
+			[
+				"sta",
+				"startValue"
+			],
+			[
+				"Pick",
+				"PickerMode"
+			],
+			[
+				"upda",
+				"updatePickerData"
+			],
+			[
+				"mod",
+				"modifying"
+			],
+			[
+				"mo",
+				"mode"
+			],
+			[
+				"person",
+				"person_names"
+			],
+			[
+				"pick",
+				"picker"
+			],
+			[
+				"Pic",
+				"PickerMode"
+			],
+			[
+				"voice",
+				"voice_names"
+			],
+			[
+				"tens",
+				"tense_names"
+			],
+			[
+				"Ns",
+				"NSIndexPath"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "DeckWords/WordsContVC.mm",
+			"settings":
+			{
+				"buffer_size": 5937,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "WordDetails/WordDetailsTableVC.mm",
+			"settings":
+			{
+				"buffer_size": 16754,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "WordQuizVC.h",
+			"settings":
+			{
+				"buffer_size": 783,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "WordQuizVC.mm",
+			"settings":
+			{
+				"buffer_size": 12531,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "DeckDetails/DeckDetailsTableVC.mm",
+			"settings":
+			{
+				"buffer_size": 4586,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "DeckWords/WordsListTableVC.mm",
+			"settings":
+			{
+				"buffer_size": 3460,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "FormDetails/FormDetailsTableVC.h",
+			"settings":
+			{
+				"buffer_size": 1044,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "FormDetails/FormDetailsTableVC.mm",
+			"settings":
+			{
+				"buffer_size": 27099,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "OptionTableVC.mm",
+			"settings":
+			{
+				"buffer_size": 2203,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "AppDelegate.mm",
+			"settings":
+			{
+				"buffer_size": 2835,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dictionary/dictionary.h",
+			"settings":
+			{
+				"buffer_size": 40027,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 169.0,
+		"last_filter": "upp",
+		"selected_items":
+		[
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"con",
+				"Convert Case: Upper Case"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"uppe",
+				"Convert Case: Upper Case"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"bu",
+				"GoSublime: Show last build output"
+			],
+			[
+				"build",
+				"GoSublime: Show last build output"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"show",
+				"GoSublime: Show last build output"
+			],
+			[
+				"proj",
+				"Project: Refresh Folders"
+			],
+			[
+				"clos",
+				"File: Close All"
+			],
+			[
+				"usa",
+				"GoSublime: Usage & Tips"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"proje",
+				"Project: Close"
+			],
+			[
+				"",
+				"Bookmarks: Toggle"
+			],
+			[
+				"tod",
+				"TodoReview: Project Files"
+			],
+			[
+				"use",
+				"Preferences: Settings - User"
+			],
+			[
+				"us",
+				"Preferences: Settings - User"
+			],
+			[
+				"pref",
+				"Preferences: Settings - User"
+			],
+			[
+				"side",
+				"Side Bar: Refresh"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"def",
+				"Preferences: Settings - Default"
+			],
+			[
+				"color",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"defa",
+				"Preferences: Settings - Default"
+			],
+			[
+				"to",
+				"TodoReview: Project Files"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"buil",
+				"Haxe: Choose Build Target"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"ne",
+				"Haxe: New Class"
+			],
+			[
+				"clas",
+				"Haxe: New Class"
+			],
+			[
+				"class",
+				"Haxe: New Class"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"ru",
+				"Coffee: Run Script / Selection"
+			],
+			[
+				"run",
+				"Coffee: Run Script / Selection"
+			]
+		],
+		"width": 455.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"int(\"f6\", 16)",
+			"122+123+1",
+			"6*16",
+			"int(\"6f\", 16)",
+			"print (sys.version)",
+			"import sys",
+			"print (sys.version)",
+			"print sys.version",
+			"int(\"f5\", 16)",
+			"int(\"7b\", 16)",
+			"int(7b, 16)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"256/16",
+			"256/8",
+			"112/8",
+			"114/4",
+			"102/4",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DeckDetails",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/dictionary",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/dictionary/common",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/FormDetails",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/FormSelect",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/WordDetails"
+	],
+	"file_history":
+	[
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/FormDetails/FormDetailsTableVC.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DictTable/DictTableVC.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DeckDetails/DeckDetailsTableVC.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DeckWords/WordsListTableVC.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/deck.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DictTable/DictContainerVC.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/dictionary/common/common.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DeckTable/DeckTableVC.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/WordDetails/WordDetailsTableVC.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/FormSelect/FormSelectTableVC.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/dictionary/dictionary.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DeckDetails/DeckDetailsTableVC.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DeckWords/WordsContVC.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DictTable/DictContainerVC.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DeckWords/WordsListTableVC.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DeckWords/WordsContVC.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/WordQuizVC.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/WordQuizVC.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DictTable/DictTableVC.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/AppDelegate.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/AppDelegate.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DictTable/WordCell.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/deck.sql",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DeckWords/DeckWordsVC.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DeckWords/DeckWordsVC.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/WordSelect/WordSelectTableVC.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/WordSelect/WordSelectTableVC.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/TopVC.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/TopVC.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/WordDetails/WordDetailsTableVC.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/OptionTableVC.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/OptionTableVC.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DeckTable/DeckTableVC.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/FormSelect/FormSelectTableVC.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/SelectedWordProtocol.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DictTable/WordCell.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/WordDetailsTableVC.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/WordSelectTableVC.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/WordSelectTableVC.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/FormDetailsTableVC.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/FormDetailsTableVC.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/WordSelectTableViewController.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/greek.sublime-project",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DeckDetailsTableViewController.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DeckDetailsTableViewController.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DeckTableViewController.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DeckTableViewController.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/FormSelectTableViewController.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/FormSelectTableViewController.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/Deck.h",
+		"/Users/JosiahBills/Documents/Code/java/FOCS/P2/output/test.plain",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/FinishedWordSelectProtocol.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/FormDetailsTableViewController.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/FormDetailsTableViewController.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/WordSelectTableViewController.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/WordDetailsTableViewController.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DictTableViewController.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DeckDetailsTableViewController.m",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/WordDetailsTableViewController.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DictTableViewController.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/greek_dict/dictionary.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/greek_dict/common/common.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/common.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/dictionary.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/OptionTableViewController.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/OptionTableViewController.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/ViewController.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/OptionTableViewController.m",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/ViewController.mm",
+		"/Users/JosiahBills/Downloads/mylepaint/Form1.cs",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/main.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/DefinitionCell.h",
+		"/Users/JosiahBills/Documents/Code/cpp/Koine Greek Flash Cards/Koine Greek Flash Cards/build.sh",
+		"/Users/JosiahBills/Documents/Code/cpp/greek/source/dictionary.h",
+		"/Users/JosiahBills/Documents/Code/cpp/greek/source/testdictionary.cpp",
+		"/Users/JosiahBills/Documents/Code/cpp/greek/source/common.h",
+		"/Users/JosiahBills/Documents/Code/cpp/greek/source/makedictionary.cpp",
+		"/Users/JosiahBills/Documents/Code/cpp/greek/source/bibleparse.cpp",
+		"/Users/JosiahBills/Documents/Code/cpp/greek/build.sh",
+		"/Users/JosiahBills/Documents/Code/cpp/greek/output/nestle1907.csv",
+		"/Users/JosiahBills/Documents/Code/cpp/greek/output/strongs.csv",
+		"/Users/JosiahBills/Documents/Code/cpp/greek/Greek.xcodeproj/project.pbxproj",
+		"/Users/JosiahBills/Documents/Code/cpp/greek/source/biblecleanup.cpp",
+		"/Users/JosiahBills/Documents/Code/cpp/greek/source/bible.h",
+		"/Users/JosiahBills/Documents/Code/cpp/greek/source/helpers.h",
+		"/Users/JosiahBills/Documents/Code/cpp/greek/output/Matthew.txt",
+		"/Users/JosiahBills/Documents/Code/cpp/greek/source/utf8light.h",
+		"/Users/JosiahBills/Documents/Code/cpp/greek/output/61-Mt.txt",
+		"/Users/JosiahBills/Documents/Code/cpp/Utils/Clipboard/clipboard.mm",
+		"/Users/JosiahBills/Documents/Code/cpp/Utils/Clipboard/build.sh",
+		"/Users/JosiahBills/Documents/Code/cpp/scratch/source/TicTacFrame.h",
+		"/Users/JosiahBills/Documents/Code/cpp/scratch/source/TicTacFrame.cpp",
+		"/Users/JosiahBills/Documents/Code/cpp/scratch/source/Car.cpp",
+		"/Users/JosiahBills/Documents/Code/cpp/scratch/source/Car.h",
+		"/Users/JosiahBills/Documents/Code/cpp/scratch/source/MotorVehicle.cpp",
+		"/Users/JosiahBills/Documents/Code/cpp/scratch/source/MotorVehicle.h",
+		"/Users/JosiahBills/Documents/Code/cpp/scratch/source/Vehicle.cpp",
+		"/Users/JosiahBills/Documents/Code/cpp/scratch/source/Vehicle.h",
+		"/Users/JosiahBills/Documents/Code/cpp/scratch/source/Truck.cpp",
+		"/Users/JosiahBills/Documents/Code/cpp/scratch/source/Truck.h",
+		"/Users/JosiahBills/Documents/Code/cpp/scratch/output/vehicleTestCases.txt",
+		"/Users/JosiahBills/Documents/Code/cpp/scratch/source/LLSortedPosInt.cpp",
+		"/Users/JosiahBills/Documents/Code/cpp/scratch/source/LLSortedPosInt.h",
+		"/Users/JosiahBills/Documents/Code/cpp/scratch/scratch.sublime-project",
+		"/Users/JosiahBills/Documents/Code/cpp/scratch/source/complexNumber.cpp",
+		"/Users/JosiahBills/Documents/Code/cpp/scratch/source/complexNumber.h",
+		"/Users/JosiahBills/Documents/Code/cpp/scratch/source/main.cpp",
+		"/Users/JosiahBills/Documents/Code/cpp/scratch/build.sh",
+		"/Users/JosiahBills/Documents/Code/cpp/jlc/source/parser.h",
+		"/Users/JosiahBills/Documents/Code/cpp/jlc/source/main.cpp",
+		"/Users/JosiahBills/Documents/Code/cpp/jlc/source/parser.cpp",
+		"/Users/JosiahBills/Documents/Code/cpp/jlc/source/bytecode.h",
+		"/Users/JosiahBills/Documents/Code/cpp/jlc/source/common.h",
+		"/Users/JosiahBills/Documents/Code/cpp/jlc/source/semantics.cpp",
+		"/Users/JosiahBills/Documents/Code/cpp/jlc/output/tests/test.jl",
+		"/Users/JosiahBills/Documents/Code/cpp/jlc/source/semantics.h",
+		"/Users/JosiahBills/Documents/Code/cpp/jlc/source/lexer.cpp",
+		"/Users/JosiahBills/Documents/Code/cpp/jlc/source/lexer.h",
+		"/Users/JosiahBills/Documents/Code/cpp/jlc/source/compiler.h",
+		"/Users/JosiahBills/Documents/Code/cpp/jlc/source/compiler.cpp",
+		"/Users/JosiahBills/Documents/Code/cpp/jlc/source/bytecode_gen.cpp",
+		"/Users/JosiahBills/Documents/Code/cpp/jlc/source/ffi/ffi.cpp",
+		"/Users/JosiahBills/Documents/Code/cpp/jlc/source/bytecode_exec.cpp",
+		"/Users/JosiahBills/Documents/Code/cpp/jlc/output/tests/ffi_test.jl",
+		"/Users/JosiahBills/Documents/Code/cpp/jlc/build.sh",
+		"/Users/JosiahBills/Documents/Code/cpp/jlc/output/ffi.ll",
+		"/Users/JosiahBills/Documents/Code/cpp/jlc/output/ffi.s",
+		"/Users/JosiahBills/Documents/Code/cpp/jlc/source/dynload_include/dyncall.h"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"%@",
+			"of %s",
+			"*form",
+			"(uint8)",
+			"uint8",
+			"possessed",
+			"name",
+			"form->number",
+			"VerbCase",
+			"number",
+			"person",
+			"VerbGender",
+			"VerbNumber",
+			"VerbPerson",
+			"Verb",
+			"mood",
+			"tense",
+			"row+1",
+			"-",
+			"(uint8)",
+			"return",
+			"PickerMode",
+			"row",
+			"PickerMode",
+			"NARRAYITEM",
+			"NARRAY_ITEM",
+			"form->form_index",
+			"form->word",
+			"*form",
+			"word->part",
+			"Part::",
+			"Number",
+			"number",
+			"Case",
+			"case",
+			"number",
+			"number_",
+			"case",
+			"format",
+			"NARRAY_NEW",
+			"NARRAYITEM",
+			"self.words",
+			"loadAll",
+			"self.root_mode",
+			"number",
+			"deck",
+			"Deck",
+			"deck",
+			"num",
+			"ARRAY",
+			"array",
+			"ARRAY",
+			"array",
+			"ARRAY",
+			"array",
+			"getDictWordsForDeck",
+			"reloadWords",
+			"DeckWords",
+			"reloadWordSort",
+			"Stem",
+			"stem",
+			"self.details",
+			"DELEGATE",
+			"addButton",
+			"section",
+			"loadAllWords",
+			"table.word_list",
+			"finished_delegate",
+			"FinishedWordSelectProtocol",
+			"usage",
+			"self.deck->words",
+			"words",
+			"deck->words",
+			"self.deck->words",
+			"search_words",
+			"word_stmt",
+			"usage",
+			"a",
+			"DeckWordsVC",
+			"sort_index",
+			"true",
+			"margin",
+			"selections",
+			"new_word_selections",
+			"        self.new_word_selections = NARRAY_NEW(WordData);\n",
+			"word_selections",
+			"results",
+			"searchBar",
+			"table.view",
+			"self.search.searchBar",
+			"tableView",
+			"Dict",
+			"dict",
+			"Word *words",
+			"utf8s",
+			"Stem",
+			"stem",
+			"Stem",
+			"stem",
+			"Stem",
+			"stem",
+			"Stem",
+			"stem",
+			"Stem",
+			"stem",
+			"sqlite3_reset",
+			"get_all_words_count",
+			"get_all_words_strongs",
+			"load_search_string",
+			"stem",
+			"Stem",
+			"stem",
+			"Stem",
+			"stem",
+			"cancel",
+			"section",
+			"word_order",
+			"view",
+			"addArranged",
+			"word",
+			"Word",
+			"word",
+			"NARRAY_LAST",
+			"forms",
+			"word->part",
+			"load_form_cng_form",
+			"NARRAYITEM",
+			"Suffix"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"loadAllWordData",
+			"dictionary",
+			"./greek_dict/dictionary.h",
+			"DeckTableViewController",
+			"ARRAYITEMSLOT",
+			"ArrayDep",
+			"ARRAYITEM_DEP(",
+			"ARRAYITEMSLOT_DEP",
+			"::ArgsAtFuncCall",
+			"::ArgsAtLambda",
+			"ALIGNOF",
+			"gen",
+			"registers[0]",
+			"registers[1]",
+			"extra_register",
+			"%lld",
+			"Lexer",
+			"lexer",
+			"constant",
+			"Literal",
+			"Constant",
+			"integer_value",
+			"rhand",
+			"lhand",
+			"preprocess(",
+			"ensurePreprocessed(",
+			"preprocess(",
+			"preprocess",
+			"tokenizer.",
+			"(&tokenizer)",
+			"&tokenizer",
+			"EOF",
+			"bool",
+			"parseStmtOrLoneExpr",
+			"prettyToken",
+			"parseExprLeft",
+			"parser_state->token",
+			"parseIdStmt",
+			"ParserState",
+			"parser_state",
+			"\\\\",
+			"",
+			"C:\\\\freetype\\\\GnuWin32\\\\bin",
+			"C:\\\\Program Files (x86)\\\\GnuWin32\\\\bin",
+			"usize",
+			"derive",
+			"state_actions_hidden",
+			"state_actions_visible",
+			"state_unit",
+			"alignRect",
+			"align_to_center",
+			"\\1.(",
+			"fieldLayout",
+			"bitmap.y",
+			"bitmap.x",
+			"\\t"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "DeckWords/WordsContVC.mm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5937,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4628,
+								4628
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Objective-C/Objective-C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1298.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "WordDetails/WordDetailsTableVC.mm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16754,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1491,
+								1491
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Objective-C/Objective-C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 495.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "WordQuizVC.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 783,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								625,
+								596
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 19.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "WordQuizVC.mm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12531,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								916,
+								916
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Objective-C/Objective-C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 528.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "DeckDetails/DeckDetailsTableVC.mm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4586,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								539,
+								539
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Objective-C/Objective-C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "DeckWords/WordsListTableVC.mm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								536,
+								536
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Objective-C/Objective-C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "FormDetails/FormDetailsTableVC.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1044,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								235,
+								235
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 329.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "FormDetails/FormDetailsTableVC.mm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27099,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8384,
+								8384
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Objective-C/Objective-C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 84.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "OptionTableVC.mm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								427,
+								427
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Objective-C/Objective-C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "AppDelegate.mm",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2835,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								551,
+								558
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Objective-C/Objective-C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "dictionary/dictionary.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7019,
+								7035
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5051.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 226.0
+	},
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "Jo-Subl-Build-Mac",
+	"project": "greek.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pa",
+				"source/parser.cpp"
+			],
+			[
+				"co",
+				"source/common.h"
+			],
+			[
+				"",
+				"source/parser.h"
+			],
+			[
+				"p",
+				"source/parser.h"
+			],
+			[
+				"g",
+				"Trapse\\Source\\screens\\GameScreen.hx"
+			],
+			[
+				"pl",
+				"Trapse\\Source\\screens\\layouts\\PlayerLayout.hx"
+			],
+			[
+				"a",
+				"screens\\layouts\\ActionsLayout.hx"
+			],
+			[
+				"actu",
+				"screens\\layouts\\ActionsLayout.hx"
+			],
+			[
+				"fie",
+				"screens\\layouts\\FieldLayout.hx"
+			],
+			[
+				"f",
+				"screens\\layouts\\FieldLayout.hx"
+			],
+			[
+				"fi",
+				"screens\\layouts\\FieldLayout.hx"
+			],
+			[
+				"gm",
+				"screens\\GameScreen.hx"
+			],
+			[
+				"fil",
+				"screens\\layouts\\FieldLayout.hx"
+			],
+			[
+				"uni",
+				"game\\field\\Unit.hx"
+			],
+			[
+				"sc",
+				"screens\\GameScreen.hx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Code/cpp/jlc/jlc.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ma",
+				"main"
+			],
+			[
+				"draw_",
+				"draw_text"
+			],
+			[
+				"res",
+				"resize"
+			],
+			[
+				"main",
+				"main"
+			],
+			[
+				"m",
+				"main"
+			],
+			[
+				"dr",
+				"draw"
+			],
+			[
+				"new",
+				"new<F>"
+			],
+			[
+				"us",
+				"use_shader"
+			],
+			[
+				"dra",
+				"draw"
+			],
+			[
+				"draw",
+				"draw"
+			],
+			[
+				"iden",
+				"identity"
+			],
+			[
+				"ide",
+				"identity"
+			],
+			[
+				"siz",
+				"size_of"
+			],
+			[
+				"size",
+				"size_of"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

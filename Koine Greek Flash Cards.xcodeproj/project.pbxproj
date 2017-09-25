@@ -1,0 +1,480 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A825C9C51DEF12C70094E079 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A825C9C31DEF12C70094E079 /* Main.storyboard */; };
+		A825C9C71DEF12C70094E079 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A825C9C61DEF12C70094E079 /* Assets.xcassets */; };
+		A825C9CA1DEF12C70094E079 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A825C9C81DEF12C70094E079 /* LaunchScreen.storyboard */; };
+		A825C9E91DF852D00094E079 /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = A825C9E71DF852D00094E079 /* AppDelegate.mm */; };
+		A825C9ED1DF86D190094E079 /* main.mm in Sources */ = {isa = PBXBuildFile; fileRef = A825C9EB1DF86B5D0094E079 /* main.mm */; };
+		A825C9F01DF86D350094E079 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A825C9EF1DF86D350094E079 /* UIKit.framework */; };
+		A825C9FA1DFB0F280094E079 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A825C9F91DFB0F280094E079 /* CoreGraphics.framework */; };
+		A84051AF1E57A3C500A637A3 /* TopVC.mm in Sources */ = {isa = PBXBuildFile; fileRef = A84051AC1E57A3C500A637A3 /* TopVC.mm */; };
+		A84051B61E57A81A00A637A3 /* DeckDetailsTableVC.mm in Sources */ = {isa = PBXBuildFile; fileRef = A84051B51E57A81A00A637A3 /* DeckDetailsTableVC.mm */; };
+		A84051BA1E57A84400A637A3 /* DeckTableVC.mm in Sources */ = {isa = PBXBuildFile; fileRef = A84051B91E57A84400A637A3 /* DeckTableVC.mm */; };
+		A84051BE1E57A86A00A637A3 /* DictTableVC.mm in Sources */ = {isa = PBXBuildFile; fileRef = A84051BD1E57A86A00A637A3 /* DictTableVC.mm */; };
+		A84051CB1E5813EE00A637A3 /* FormDetailsTableVC.mm in Sources */ = {isa = PBXBuildFile; fileRef = A84051C11E5813EE00A637A3 /* FormDetailsTableVC.mm */; };
+		A84051CC1E5813EE00A637A3 /* FormSelectTableVC.mm in Sources */ = {isa = PBXBuildFile; fileRef = A84051C41E5813EE00A637A3 /* FormSelectTableVC.mm */; };
+		A84051CD1E5813EE00A637A3 /* WordDetailsTableVC.mm in Sources */ = {isa = PBXBuildFile; fileRef = A84051C71E5813EE00A637A3 /* WordDetailsTableVC.mm */; };
+		A84051D01E5841D100A637A3 /* libsqlite3.0.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = A84051CF1E5841D100A637A3 /* libsqlite3.0.tbd */; };
+		A84051D31E58D4B100A637A3 /* WordCell.mm in Sources */ = {isa = PBXBuildFile; fileRef = A84051D21E58D4B100A637A3 /* WordCell.mm */; };
+		A88A7F381E5BA23B00543708 /* dictionary.db in Resources */ = {isa = PBXBuildFile; fileRef = A88A7F371E5BA23B00543708 /* dictionary.db */; };
+		A88A7F3B1E5C01B000543708 /* WordQuizVC.mm in Sources */ = {isa = PBXBuildFile; fileRef = A88A7F3A1E5C01B000543708 /* WordQuizVC.mm */; };
+		A88A7F3E1E5F6C2D00543708 /* DictContainerVC.mm in Sources */ = {isa = PBXBuildFile; fileRef = A88A7F3D1E5F6C2D00543708 /* DictContainerVC.mm */; };
+		A88A7F451E6261DD00543708 /* WordsContVC.mm in Sources */ = {isa = PBXBuildFile; fileRef = A88A7F441E6261DD00543708 /* WordsContVC.mm */; };
+		A88A7F481E6262FC00543708 /* WordsListTableVC.mm in Sources */ = {isa = PBXBuildFile; fileRef = A88A7F471E6262FC00543708 /* WordsListTableVC.mm */; };
+		A8B554091E4F0684007B3209 /* OptionTableVC.mm in Sources */ = {isa = PBXBuildFile; fileRef = A8B554081E4F0684007B3209 /* OptionTableVC.mm */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		A825C9B71DEF12C70094E079 /* Koine Greek Flash Cards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Koine Greek Flash Cards.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A825C9BD1DEF12C70094E079 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		A825C9C41DEF12C70094E079 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A825C9C61DEF12C70094E079 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A825C9C91DEF12C70094E079 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A825C9CB1DEF12C70094E079 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A825C9D41DEF21A50094E079 /* deck.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = deck.h; sourceTree = "<group>"; };
+		A825C9E71DF852D00094E079 /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = AppDelegate.mm; sourceTree = "<group>"; };
+		A825C9EB1DF86B5D0094E079 /* main.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = main.mm; sourceTree = "<group>"; };
+		A825C9EF1DF86D350094E079 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		A825C9F91DFB0F280094E079 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		A84051AB1E57A3C500A637A3 /* TopVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TopVC.h; sourceTree = "<group>"; };
+		A84051AC1E57A3C500A637A3 /* TopVC.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = TopVC.mm; sourceTree = "<group>"; };
+		A84051B41E57A81A00A637A3 /* DeckDetailsTableVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DeckDetailsTableVC.h; sourceTree = "<group>"; };
+		A84051B51E57A81A00A637A3 /* DeckDetailsTableVC.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = DeckDetailsTableVC.mm; sourceTree = "<group>"; };
+		A84051B81E57A84400A637A3 /* DeckTableVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DeckTableVC.h; sourceTree = "<group>"; };
+		A84051B91E57A84400A637A3 /* DeckTableVC.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = DeckTableVC.mm; sourceTree = "<group>"; };
+		A84051BC1E57A86A00A637A3 /* DictTableVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DictTableVC.h; sourceTree = "<group>"; };
+		A84051BD1E57A86A00A637A3 /* DictTableVC.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = DictTableVC.mm; sourceTree = "<group>"; };
+		A84051C01E5813EE00A637A3 /* FormDetailsTableVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FormDetailsTableVC.h; sourceTree = "<group>"; };
+		A84051C11E5813EE00A637A3 /* FormDetailsTableVC.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = FormDetailsTableVC.mm; sourceTree = "<group>"; };
+		A84051C31E5813EE00A637A3 /* FormSelectTableVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FormSelectTableVC.h; sourceTree = "<group>"; };
+		A84051C41E5813EE00A637A3 /* FormSelectTableVC.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = FormSelectTableVC.mm; sourceTree = "<group>"; };
+		A84051C61E5813EE00A637A3 /* WordDetailsTableVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WordDetailsTableVC.h; sourceTree = "<group>"; };
+		A84051C71E5813EE00A637A3 /* WordDetailsTableVC.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = WordDetailsTableVC.mm; sourceTree = "<group>"; };
+		A84051CF1E5841D100A637A3 /* libsqlite3.0.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.0.tbd; path = usr/lib/libsqlite3.0.tbd; sourceTree = SDKROOT; };
+		A84051D11E58D4B100A637A3 /* WordCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WordCell.h; sourceTree = "<group>"; };
+		A84051D21E58D4B100A637A3 /* WordCell.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = WordCell.mm; sourceTree = "<group>"; };
+		A88A7F371E5BA23B00543708 /* dictionary.db */ = {isa = PBXFileReference; lastKnownFileType = file; name = dictionary.db; path = "Koine Greek Flash Cards/dictionary.db"; sourceTree = "<group>"; };
+		A88A7F391E5C01B000543708 /* WordQuizVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WordQuizVC.h; sourceTree = "<group>"; };
+		A88A7F3A1E5C01B000543708 /* WordQuizVC.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = WordQuizVC.mm; sourceTree = "<group>"; };
+		A88A7F3C1E5F6C2D00543708 /* DictContainerVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DictContainerVC.h; sourceTree = "<group>"; };
+		A88A7F3D1E5F6C2D00543708 /* DictContainerVC.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = DictContainerVC.mm; sourceTree = "<group>"; };
+		A88A7F431E6261DD00543708 /* WordsContVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WordsContVC.h; sourceTree = "<group>"; };
+		A88A7F441E6261DD00543708 /* WordsContVC.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = WordsContVC.mm; sourceTree = "<group>"; };
+		A88A7F461E6262FC00543708 /* WordsListTableVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WordsListTableVC.h; sourceTree = "<group>"; };
+		A88A7F471E6262FC00543708 /* WordsListTableVC.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = WordsListTableVC.mm; sourceTree = "<group>"; };
+		A8B554071E4F0684007B3209 /* OptionTableVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OptionTableVC.h; sourceTree = "<group>"; };
+		A8B554081E4F0684007B3209 /* OptionTableVC.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = OptionTableVC.mm; sourceTree = "<group>"; };
+		A8B554101E534716007B3209 /* SelectedWordProtocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SelectedWordProtocol.h; sourceTree = "<group>"; };
+		A8B554141E55726F007B3209 /* dictionary */ = {isa = PBXFileReference; lastKnownFileType = folder; path = dictionary; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A825C9B41DEF12C70094E079 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A84051D01E5841D100A637A3 /* libsqlite3.0.tbd in Frameworks */,
+				A825C9FA1DFB0F280094E079 /* CoreGraphics.framework in Frameworks */,
+				A825C9F01DF86D350094E079 /* UIKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A825C9AE1DEF12C70094E079 = {
+			isa = PBXGroup;
+			children = (
+				A88A7F371E5BA23B00543708 /* dictionary.db */,
+				A825C9B91DEF12C70094E079 /* Koine Greek Flash Cards */,
+				A825C9B81DEF12C70094E079 /* Products */,
+				A825C9EE1DF86D350094E079 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		A825C9B81DEF12C70094E079 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A825C9B71DEF12C70094E079 /* Koine Greek Flash Cards.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A825C9B91DEF12C70094E079 /* Koine Greek Flash Cards */ = {
+			isa = PBXGroup;
+			children = (
+				A88A7F421E6261DD00543708 /* DeckWords */,
+				A84051BF1E5813EE00A637A3 /* FormDetails */,
+				A84051C21E5813EE00A637A3 /* FormSelect */,
+				A84051C51E5813EE00A637A3 /* WordDetails */,
+				A84051BB1E57A86A00A637A3 /* DictTable */,
+				A84051B71E57A84400A637A3 /* DeckTable */,
+				A84051B31E57A81A00A637A3 /* DeckDetails */,
+				A84051AB1E57A3C500A637A3 /* TopVC.h */,
+				A84051AC1E57A3C500A637A3 /* TopVC.mm */,
+				A825C9BD1DEF12C70094E079 /* AppDelegate.h */,
+				A825C9E71DF852D00094E079 /* AppDelegate.mm */,
+				A825C9C31DEF12C70094E079 /* Main.storyboard */,
+				A825C9C61DEF12C70094E079 /* Assets.xcassets */,
+				A825C9C81DEF12C70094E079 /* LaunchScreen.storyboard */,
+				A825C9CB1DEF12C70094E079 /* Info.plist */,
+				A825C9BA1DEF12C70094E079 /* Supporting Files */,
+				A8B554071E4F0684007B3209 /* OptionTableVC.h */,
+				A8B554081E4F0684007B3209 /* OptionTableVC.mm */,
+				A8B554101E534716007B3209 /* SelectedWordProtocol.h */,
+				A88A7F391E5C01B000543708 /* WordQuizVC.h */,
+				A88A7F3A1E5C01B000543708 /* WordQuizVC.mm */,
+			);
+			path = "Koine Greek Flash Cards";
+			sourceTree = "<group>";
+		};
+		A825C9BA1DEF12C70094E079 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A8B554141E55726F007B3209 /* dictionary */,
+				A825C9EB1DF86B5D0094E079 /* main.mm */,
+				A825C9D41DEF21A50094E079 /* deck.h */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A825C9EE1DF86D350094E079 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A84051CF1E5841D100A637A3 /* libsqlite3.0.tbd */,
+				A825C9F91DFB0F280094E079 /* CoreGraphics.framework */,
+				A825C9EF1DF86D350094E079 /* UIKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A84051B31E57A81A00A637A3 /* DeckDetails */ = {
+			isa = PBXGroup;
+			children = (
+				A84051B41E57A81A00A637A3 /* DeckDetailsTableVC.h */,
+				A84051B51E57A81A00A637A3 /* DeckDetailsTableVC.mm */,
+			);
+			path = DeckDetails;
+			sourceTree = "<group>";
+		};
+		A84051B71E57A84400A637A3 /* DeckTable */ = {
+			isa = PBXGroup;
+			children = (
+				A84051B81E57A84400A637A3 /* DeckTableVC.h */,
+				A84051B91E57A84400A637A3 /* DeckTableVC.mm */,
+			);
+			path = DeckTable;
+			sourceTree = "<group>";
+		};
+		A84051BB1E57A86A00A637A3 /* DictTable */ = {
+			isa = PBXGroup;
+			children = (
+				A88A7F3C1E5F6C2D00543708 /* DictContainerVC.h */,
+				A88A7F3D1E5F6C2D00543708 /* DictContainerVC.mm */,
+				A84051BC1E57A86A00A637A3 /* DictTableVC.h */,
+				A84051BD1E57A86A00A637A3 /* DictTableVC.mm */,
+				A84051D11E58D4B100A637A3 /* WordCell.h */,
+				A84051D21E58D4B100A637A3 /* WordCell.mm */,
+			);
+			path = DictTable;
+			sourceTree = "<group>";
+		};
+		A84051BF1E5813EE00A637A3 /* FormDetails */ = {
+			isa = PBXGroup;
+			children = (
+				A84051C01E5813EE00A637A3 /* FormDetailsTableVC.h */,
+				A84051C11E5813EE00A637A3 /* FormDetailsTableVC.mm */,
+			);
+			path = FormDetails;
+			sourceTree = "<group>";
+		};
+		A84051C21E5813EE00A637A3 /* FormSelect */ = {
+			isa = PBXGroup;
+			children = (
+				A84051C31E5813EE00A637A3 /* FormSelectTableVC.h */,
+				A84051C41E5813EE00A637A3 /* FormSelectTableVC.mm */,
+			);
+			path = FormSelect;
+			sourceTree = "<group>";
+		};
+		A84051C51E5813EE00A637A3 /* WordDetails */ = {
+			isa = PBXGroup;
+			children = (
+				A84051C61E5813EE00A637A3 /* WordDetailsTableVC.h */,
+				A84051C71E5813EE00A637A3 /* WordDetailsTableVC.mm */,
+			);
+			path = WordDetails;
+			sourceTree = "<group>";
+		};
+		A88A7F421E6261DD00543708 /* DeckWords */ = {
+			isa = PBXGroup;
+			children = (
+				A88A7F431E6261DD00543708 /* WordsContVC.h */,
+				A88A7F441E6261DD00543708 /* WordsContVC.mm */,
+				A88A7F461E6262FC00543708 /* WordsListTableVC.h */,
+				A88A7F471E6262FC00543708 /* WordsListTableVC.mm */,
+			);
+			path = DeckWords;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A825C9B61DEF12C70094E079 /* Koine Greek Flash Cards */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A825C9CE1DEF12C70094E079 /* Build configuration list for PBXNativeTarget "Koine Greek Flash Cards" */;
+			buildPhases = (
+				A825C9B31DEF12C70094E079 /* Sources */,
+				A825C9B41DEF12C70094E079 /* Frameworks */,
+				A825C9B51DEF12C70094E079 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Koine Greek Flash Cards";
+			productName = "Koine Greek Flash Cards";
+			productReference = A825C9B71DEF12C70094E079 /* Koine Greek Flash Cards.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A825C9AF1DEF12C70094E079 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0810;
+				ORGANIZATIONNAME = "Josiah Bills";
+				TargetAttributes = {
+					A825C9B61DEF12C70094E079 = {
+						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = J2B4XQZHJ5;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = A825C9B21DEF12C70094E079 /* Build configuration list for PBXProject "Koine Greek Flash Cards" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A825C9AE1DEF12C70094E079;
+			productRefGroup = A825C9B81DEF12C70094E079 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A825C9B61DEF12C70094E079 /* Koine Greek Flash Cards */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A825C9B51DEF12C70094E079 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A88A7F381E5BA23B00543708 /* dictionary.db in Resources */,
+				A825C9CA1DEF12C70094E079 /* LaunchScreen.storyboard in Resources */,
+				A825C9C71DEF12C70094E079 /* Assets.xcassets in Resources */,
+				A825C9C51DEF12C70094E079 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A825C9B31DEF12C70094E079 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A825C9ED1DF86D190094E079 /* main.mm in Sources */,
+				A84051D31E58D4B100A637A3 /* WordCell.mm in Sources */,
+				A825C9E91DF852D00094E079 /* AppDelegate.mm in Sources */,
+				A84051AF1E57A3C500A637A3 /* TopVC.mm in Sources */,
+				A84051CB1E5813EE00A637A3 /* FormDetailsTableVC.mm in Sources */,
+				A84051B61E57A81A00A637A3 /* DeckDetailsTableVC.mm in Sources */,
+				A88A7F3E1E5F6C2D00543708 /* DictContainerVC.mm in Sources */,
+				A84051CC1E5813EE00A637A3 /* FormSelectTableVC.mm in Sources */,
+				A84051BA1E57A84400A637A3 /* DeckTableVC.mm in Sources */,
+				A88A7F451E6261DD00543708 /* WordsContVC.mm in Sources */,
+				A84051CD1E5813EE00A637A3 /* WordDetailsTableVC.mm in Sources */,
+				A88A7F481E6262FC00543708 /* WordsListTableVC.mm in Sources */,
+				A84051BE1E57A86A00A637A3 /* DictTableVC.mm in Sources */,
+				A88A7F3B1E5C01B000543708 /* WordQuizVC.mm in Sources */,
+				A8B554091E4F0684007B3209 /* OptionTableVC.mm in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		A825C9C31DEF12C70094E079 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A825C9C41DEF12C70094E079 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		A825C9C81DEF12C70094E079 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A825C9C91DEF12C70094E079 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A825C9CC1DEF12C70094E079 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A825C9CD1DEF12C70094E079 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A825C9CF1DEF12C70094E079 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = J2B4XQZHJ5;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Koine Greek Flash Cards/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "ObsidianGolem.Koine-Greek-Flash-Cards";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A825C9D01DEF12C70094E079 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = J2B4XQZHJ5;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Koine Greek Flash Cards/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "ObsidianGolem.Koine-Greek-Flash-Cards";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A825C9B21DEF12C70094E079 /* Build configuration list for PBXProject "Koine Greek Flash Cards" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A825C9CC1DEF12C70094E079 /* Debug */,
+				A825C9CD1DEF12C70094E079 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A825C9CE1DEF12C70094E079 /* Build configuration list for PBXNativeTarget "Koine Greek Flash Cards" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A825C9CF1DEF12C70094E079 /* Debug */,
+				A825C9D01DEF12C70094E079 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A825C9AF1DEF12C70094E079 /* Project object */;
+}
